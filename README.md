@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gabcharlton
-- 👀 I’m interested in data science, machine learning, and artificial intelligence.
+- 👀 I’m interested in data anlysis, data science, ML, AI, and astrophysics.
 - 🌱 I’m currently learning data science at university.
 - 💞️ I’m looking to collaborate on large dataset analysis.
 - 📫 How to reach me gabcharlton@hotmail.com, https://www.kaggle.com/gabriellecharlton, and https://www.linkedin.com/in/gabcharlton/.
