@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gabcharlton
+- 👋 Hi, I’m Gabrielle Charlton.
 - 👀 I’m interested in data anlysis, data science, ML, AI, and astrophysics.
 - 🌱 I’m currently learning data science at university.
 - 💞️ I’m looking to collaborate on large dataset analysis.
