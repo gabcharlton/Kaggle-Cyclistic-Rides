@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gabrielle Charlton.
-- 👀 I’m interested in data anlysis, data science, ML, AI, and astrophysics.
+- 👀 I’m interested in data science, cozy games, and gardening
 - 🌱 I’m currently studying towards my Msc. in Data Science at Colorado Boulder University.
-- 💞️ I’m looking to collaborate on large dataset analysis and gain practical experience on projects.
+- 💞️ I’m looking to collaborate on large dataset analysis and gain practical experience on projects. Also currently working on my first indie cosy game!
 - 📫 How to reach me: gabcharlton@hotmail.com, https://www.kaggle.com/gabriellecharlton, and https://www.linkedin.com/in/gabcharlton/.
 
 <!---
